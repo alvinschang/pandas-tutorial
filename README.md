@@ -8,12 +8,18 @@ First some definitions:
 * **Pandas** is additional code for Python (a "library") that makes data analysis easier in Python.
 * **Jupyter Notebook** is interface that allows you to write code in your browser. It's brilliant because you can write a line of code, run it, and see the output (tables or charts) instantly.     
 
+### 0. Quick start
+
+If you just want to play around, try a version [hosted by Google here](https://colab.research.google.com/). You can then jump to [this page](https://github.com/alvinschang/pandas-tutorial/blob/main/titanic.ipynb).
+
+However, I would recommend installing everything on your machine if you're using this seriously.
+
+
 ### 1. Install programs
 
 We have to install the three things above before we get started. But luckily there's a quick and easy way to install everything we need using something called Anaconda.
 
 [Click here for instructions on how to install Anaconda](https://docs.continuum.io/anaconda/install/).
-
 ### 2. Download the tutorial
 
 * If you use Github, clone this repository. 
